@@ -11,4 +11,6 @@ https://github.com/MarieSerroyen/FSHN_backend_admin
 https://github.com/MarieSerroyen/FSHN_admin
 
 ## FSHN product website
-https://github.com/NickBevers/fshn-productWebsite
+https://github.com/NickBevers/fshn-productWebsite (NEW/CURRENT)
+https://github.com/MarieSerroyen/lab3-fashion (OLD/Used for online marketing)
+
