@@ -5,7 +5,7 @@ This is a global repository which contains all other repositories for the FSHN p
 https://github.com/NickBevers/fshn-interface
 
 ## FSHN backend admin panel
-https://github.com/MarieSerroyen/FSHN_backend_admin
+https://github.com/NickBevers/FSHN_backend_admin
 
 ## FSHN admin panel
 https://github.com/MarieSerroyen/FSHN_admin
